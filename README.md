@@ -1,4 +1,4 @@
-I am Paul Archer (archerpolo), a second-year student at Télécom Paris, one of France’s leading engineering schools in digital sciences, and a member of the Institut Polytechnique de Paris.
+I am Paul Archer (archer-paul), a second-year student at Télécom Paris, one of France’s leading engineering schools in digital sciences, and a member of the Institut Polytechnique de Paris.
 
 I specialize in stochastic modeling, data science, and machine learning, with a strong interest in financial markets. My background also includes experience in quantum computing, having completed an internship at Sopra Steria where I worked with Qiskit and Pulser.
 
